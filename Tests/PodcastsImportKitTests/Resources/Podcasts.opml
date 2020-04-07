@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+    <head>
+        <title>Overcast Podcast Subscriptions</title>
+    </head>
+    <body>
+        <outline type="rss" text="Connected" title="Connected" xmlUrl="https://www.relay.fm/connected/feed" htmlUrl="https://www.relay.fm/connected"/>
+        <outline type="rss" text="Swift by Sundell" title="Swift by Sundell" xmlUrl="https://swiftbysundell.com/podcast/feed.rss" htmlUrl="https://www.swiftbysundell.com/podcast"/>
+        <outline type="rss" text="Nadie Sabe Nada" title="Nadie Sabe Nada" xmlUrl="https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml" htmlUrl="http://cadenaser.com/programa/nadie_sabe_nada"/>
+        <outline type="rss" text="The Talk Show With John Gruber" title="The Talk Show With John Gruber" xmlUrl="https://daringfireball.net/thetalkshow/rss" htmlUrl="https://daringfireball.net/thetalkshow"/>
+        <outline type="rss" text="The Incomparable Star Wars feed" title="The Incomparable Star Wars feed" xmlUrl="https://feeds.theincomparable.com/work/starwars" htmlUrl="http://www.theincomparable.com/work/starwars/"/>
+        <outline type="rss" text="The Prompt" title="The Prompt" xmlUrl="https://www.relay.fm/prompt/feed" htmlUrl="https://www.relay.fm/prompt"/>
+        <outline type="rss" text="Swift Unwrapped" title="Swift Unwrapped" xmlUrl="https://rss.simplecast.com/podcasts/2693/rss" htmlUrl="https://spec.fm/podcasts/swift-unwrapped"/>
+        <outline type="rss" text="Emoji Wrap &#x2014; The Emoji Podcast from Emojipedia" title="Emoji Wrap &#x2014; The Emoji Podcast from Emojipedia" xmlUrl="https://feeds.simplecast.com/WOA7OuTm" htmlUrl="https://podcast.emojiwrap.com/"/>
+        <outline type="rss" text="The Talk Show" title="The Talk Show" xmlUrl="http://feeds.5by5.tv/talkshow" htmlUrl="http://5by5.tv/talkshow"/>
+        <outline type="rss" text="Core Intuition" title="Core Intuition" xmlUrl="http://coreint.org/podcast.xml/" htmlUrl="http://www.coreint.org/"/>
+        <outline type="rss" text="We.Developers" title="We.Developers" xmlUrl="http://wedevelopers.com/feed/podcast/" htmlUrl="http://wedevelopers.com/"/>
+        <outline type="rss" text="Under the Radar" title="Under the Radar" xmlUrl="https://www.relay.fm/radar/feed" htmlUrl="https://www.relay.fm/radar"/>
+        <outline type="rss" text="Hypercritical" title="Hypercritical" xmlUrl="http://feeds.5by5.tv/hypercritical" htmlUrl="http://5by5.tv/hypercritical"/>
+        <outline type="rss" text="Welcome to Macintosh" title="Welcome to Macintosh" xmlUrl="https://macintoshfm.squarespace.com/episodes?format=rss" htmlUrl="https://www.macintosh.fm/episodes/"/>
+        <outline type="rss" text="Neutral" title="Neutral" xmlUrl="http://neutral.fm/episodes?format=rss" htmlUrl="http://neutral.fm/"/>
+        <outline type="rss" text="Better Call Saul Insider Podcast" title="Better Call Saul Insider Podcast" xmlUrl="http://movietouch.sony.com.edgesuite.net/podcasts/better_call_saul_v1/better_call_saul_insider_podcast.xml" htmlUrl="http://blogs.amctv.com/better-call-saul/podcasts/"/>
+        <outline type="rss" text="The Swift Community Podcast" title="The Swift Community Podcast" xmlUrl="https://www.swiftcommunitypodcast.org/?format=rss" htmlUrl="https://www.swiftcommunitypodcast.org/"/>
+        <outline type="rss" text="Accidental Tech Podcast" title="Accidental Tech Podcast" xmlUrl="https://atp.fm/episodes?format=rss" htmlUrl="https://atp.fm/"/>
+        <outline type="rss" text="Build and Analyze" title="Build and Analyze" xmlUrl="http://feeds.5by5.tv/buildanalyze" htmlUrl="http://5by5.tv/buildanalyze"/>
+        <outline type="rss" text="Hello Internet" title="Hello Internet" xmlUrl="http://www.hellointernet.fm/podcast?format=rss" htmlUrl="http://www.hellointernet.fm/"/>
+        <outline type="rss" text="Stacktrace" title="Stacktrace" xmlUrl="http://feeds.feedburner.com/StacktraceBy9to5mac" htmlUrl="https://9to5mac.com/"/>
+        <outline type="rss" text="Error de Conexi&#xF3;n" title="Error de Conexi&#xF3;n" xmlUrl="http://feeds.feedburner.com/edcpodcast" htmlUrl="http://errordeconexion.com/"/>
+    </body>
+</opml>
