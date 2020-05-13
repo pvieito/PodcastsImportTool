@@ -30,7 +30,7 @@ struct PodcastsImportTool: ParsableCommand {
     var verbose: Bool
     
     func validate() throws {
-        if self.input == nil && self.feeds.validURLs.isEmpty {
+        if self.input == nil && self.feeds.genericURLs.isEmpty {
             throw ValidationError("No input specified.")
         }
     }
@@ -46,7 +46,7 @@ struct PodcastsImportTool: ParsableCommand {
                 podcastsOPML = try PodcastsOPML(contentsOf: inputURL)
             }
             else {
-                let feedItems = self.feeds.validURLs.map { PodcastsOPML.Item(feedURL: $0) }
+                let feedItems = self.feeds.genericURLs.map { PodcastsOPML.Item(feedURL: $0) }
                 podcastsOPML = PodcastsOPML(items: feedItems)
             }
             
